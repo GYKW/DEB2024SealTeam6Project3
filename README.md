@@ -40,12 +40,12 @@ Provide the CEO of Northwind insights on
 # Snowflake x dbt Lab
 
 ## Tests
-![](Images/DBTGenericTests.PNG)
-![](Images/DBTSingularTests.PNG)
+![](Images/DBTGenericTests.png)
+![](Images/DBTSingularTests.png)
 
 ## DBT Setup
-![](Images/DBTDependenciesSource.PNG)
-![](Images/DBTDependenciesRef.PNG)
+![](Images/DBTDependenciesSource.png)
+![](Images/DBTDependenciesRef.png)
 
 # Data Modelling
 
